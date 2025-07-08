@@ -22,7 +22,7 @@ I'm an aspiring software engineer passionate about learning, building, and growi
 - Beginner-to-intermediate level open-source contributions
 
 ## 📫 How to Reach Me
-- Email: mariahmv95@gmail.com  
+- Email: mariah.villescas@g.austincc.edu 
 
 ## 🔧 Tools & Technologies
 - Python, JavaScript
